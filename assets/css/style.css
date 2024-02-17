@@ -3,16 +3,11 @@ body {
     font-family: 'Lobster', sans-serif;
 }
 
+/*
 .navbar {
-    background-color: #373A3C !important;
     position: fixed;
-    top: 0;
-    width: 100%;
-    padding: 10px;
     z-index: 1000;
-    text-decoration-color: cyan;
-  
-}
+}*/
 
 .logo {
     font-family: 'Lobster', sans-serif;
